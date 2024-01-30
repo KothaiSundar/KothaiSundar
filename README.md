@@ -15,6 +15,6 @@
 
 💬 Ask me about Java, Full Stack development, ReactJs, HTML, CSS
 
-📫 How to reach me [kothaisundar16@gmail.com](kothaisundar16@gmail.com )
+📫 How to reach me [[kothaisundar16@gmail.com](kothaisundar16@gmail.com)
 
 😄 Pronouns: She/Her
