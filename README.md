@@ -17,4 +17,4 @@
 
 📫 How to reach me [kothaisundar16@gmail.com](kothaisundar16@gmail.com)
 
-😄 Pronouns: She/Her
+😄 Pronouns: She/Her  
