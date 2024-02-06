@@ -13,7 +13,7 @@
 .
 🤔 I’m looking for help with staying updated on industry best practices and innovative coding techniques.
 
-💬 Ask me about Java, Full Stack development, ReactJs, HTML, CSS
+💬 Ask me about Java, Full Stack development, ReactJs, HTML, CSS,SpringBoot,Hibernate
 
 📫 How to reach me [kothaisundar16@gmail.com](kothaisundar16@gmail.com)
 
